@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;arrayListTaks.food&apos; to &apos;arrayListTask.food&apos;&#x0D;&#x0A;- Original project: &apos;collection_pf&apos;&#x0D;&#x0A;- Original element: &apos;collection_pf/src/arrayListTaks.food&apos;&#x0D;&#x0A;- Renamed element: &apos;collection_pf/src/arrayListTask.food&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;arrayListTaks.food&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;arrayListTaks.food" name="arrayListTask.food" qualified="false" references="true" stamp="1676200712340" textual="false" version="1.0"/>
+</session>

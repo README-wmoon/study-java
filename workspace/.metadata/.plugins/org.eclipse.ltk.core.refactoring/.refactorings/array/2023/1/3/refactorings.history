@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;arrayTest.arTest1&apos; to &apos;ArTest1&apos;&#x0D;&#x0A;- Original project: &apos;array&apos;&#x0D;&#x0A;- Original element: &apos;arrayTest.arTest1&apos;&#x0D;&#x0A;- Renamed element: &apos;arrayTest.ArTest1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;arTest1&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;arrayTest{arTest1.java[arTest1" matchStrategy="1" name="ArTest1" qualified="false" references="true" similarDeclarations="false" stamp="1674045937157" textual="false" version="1.0"/>
+</session>

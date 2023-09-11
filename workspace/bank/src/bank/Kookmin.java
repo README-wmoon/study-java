@@ -1,0 +1,15 @@
+package bank;
+
+public class Kookmin extends Bank{
+	public Kookmin() {
+	}
+	
+	
+//	출금 시 수수료 50%
+	@Override
+	boolean withdraw(int money) {
+		money *= 1.5;
+		return super.deposit(money);
+	}
+	
+}
